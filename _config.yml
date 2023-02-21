@@ -203,6 +203,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-admin
   - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
